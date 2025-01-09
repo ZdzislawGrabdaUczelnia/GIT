@@ -1,0 +1,2 @@
+# GIT
+Moja pierwsza apka
